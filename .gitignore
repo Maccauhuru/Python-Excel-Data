@@ -1,0 +1,6 @@
+csvfiles/
+.vscode/
+output.csv
+tabsp.tsv
+tempCodeRunnerFile.py
+censuspopdata.xlsx
